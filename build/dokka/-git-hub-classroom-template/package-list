@@ -1,0 +1,45 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:controllers////PointingToDeclaration/-git-hub-classroom-template/controllers/index.html
+$dokka.location:controllers/Bitllet.BITLLETSENZILL///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}-git-hub-classroom-template/controllers/-bitllet/-b-i-t-l-l-e-t-s-e-n-z-i-l-l/index.html
+$dokka.location:controllers/Bitllet.TCASUAL///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}-git-hub-classroom-template/controllers/-bitllet/-t-c-a-s-u-a-l/index.html
+$dokka.location:controllers/Bitllet.TFAMILIAR///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}-git-hub-classroom-template/controllers/-bitllet/-t-f-a-m-i-l-i-a-r/index.html
+$dokka.location:controllers/Bitllet.TJOVE///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}-git-hub-classroom-template/controllers/-bitllet/-t-j-o-v-e/index.html
+$dokka.location:controllers/Bitllet.TUSUAL///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}-git-hub-classroom-template/controllers/-bitllet/-t-u-s-u-a-l/index.html
+$dokka.location:controllers/Bitllet///PointingToDeclaration/-git-hub-classroom-template/controllers/-bitllet/index.html
+$dokka.location:controllers/Bitllet/getEntries/#/PointingToDeclaration/-git-hub-classroom-template/controllers/-bitllet/get-entries.html
+$dokka.location:controllers/Bitllet/getNom/#/PointingToDeclaration/-git-hub-classroom-template/controllers/-bitllet/get-nom.html
+$dokka.location:controllers/Bitllet/getPreu/#/PointingToDeclaration/-git-hub-classroom-template/controllers/-bitllet/get-preu.html
+$dokka.location:controllers/Bitllet/valueOf/#kotlin.String/PointingToDeclaration/-git-hub-classroom-template/controllers/-bitllet/value-of.html
+$dokka.location:controllers/Bitllet/values/#/PointingToDeclaration/-git-hub-classroom-template/controllers/-bitllet/values.html
+$dokka.location:controllers/Etapa///PointingToDeclaration/-git-hub-classroom-template/controllers/-etapa/index.html
+$dokka.location:controllers/Etapa/Etapa/#kotlin.Int/PointingToDeclaration/-git-hub-classroom-template/controllers/-etapa/-etapa.html
+$dokka.location:controllers/Etapa/getNumEtapa/#/PointingToDeclaration/-git-hub-classroom-template/controllers/-etapa/get-num-etapa.html
+$dokka.location:controllers/Etapa/setNumEtapa/#kotlin.Int/PointingToDeclaration/-git-hub-classroom-template/controllers/-etapa/set-num-etapa.html
+$dokka.location:controllers/La màquina de bitllets de metroKt///PointingToDeclaration/-git-hub-classroom-template/controllers/-la màquina de bitllets de metro-kt/index.html
+$dokka.location:controllers/La màquina de bitllets de metroKt/abrirScanner/#/PointingToDeclaration/-git-hub-classroom-template/controllers/-la màquina de bitllets de metro-kt/abrir-scanner.html
+$dokka.location:controllers/La màquina de bitllets de metroKt/admin/#java.util.Scanner/PointingToDeclaration/-git-hub-classroom-template/controllers/-la màquina de bitllets de metro-kt/admin.html
+$dokka.location:controllers/La màquina de bitllets de metroKt/bitllet/#/PointingToDeclaration/-git-hub-classroom-template/controllers/-la màquina de bitllets de metro-kt/bitllet.html
+$dokka.location:controllers/La màquina de bitllets de metroKt/gestionarBitllets/#java.util.Scanner#controllers.Etapa/PointingToDeclaration/-git-hub-classroom-template/controllers/-la màquina de bitllets de metro-kt/gestionar-bitllets.html
+$dokka.location:controllers/La màquina de bitllets de metroKt/main/#/PointingToDeclaration/-git-hub-classroom-template/controllers/-la màquina de bitllets de metro-kt/main.html
+$dokka.location:controllers/La màquina de bitllets de metroKt/pagament/#java.util.Scanner#kotlin.Double#controllers.Etapa/PointingToDeclaration/-git-hub-classroom-template/controllers/-la màquina de bitllets de metro-kt/pagament.html
+$dokka.location:controllers/La màquina de bitllets de metroKt/precio/#java.util.Scanner#kotlin.Int#controllers.Bitllet#controllers.Etapa/PointingToDeclaration/-git-hub-classroom-template/controllers/-la màquina de bitllets de metro-kt/precio.html
+$dokka.location:controllers/La màquina de bitllets de metroKt/seguir/#java.util.Scanner#controllers.Etapa/PointingToDeclaration/-git-hub-classroom-template/controllers/-la màquina de bitllets de metro-kt/seguir.html
+$dokka.location:controllers/La màquina de bitllets de metroKt/tancarProgramaAdmin/#/PointingToDeclaration/-git-hub-classroom-template/controllers/-la màquina de bitllets de metro-kt/tancar-programa-admin.html
+$dokka.location:controllers/La màquina de bitllets de metroKt/tancarScanner/#java.util.Scanner/PointingToDeclaration/-git-hub-classroom-template/controllers/-la màquina de bitllets de metro-kt/tancar-scanner.html
+$dokka.location:controllers/La màquina de bitllets de metroKt/ticket/#java.util.Scanner#controllers.Bitllet#kotlin.Double#kotlin.Int#kotlin.Int#controllers.Etapa/PointingToDeclaration/-git-hub-classroom-template/controllers/-la màquina de bitllets de metro-kt/ticket.html
+$dokka.location:controllers/La màquina de bitllets de metroKt/zona/#java.util.Scanner#controllers.Etapa/PointingToDeclaration/-git-hub-classroom-template/controllers/-la màquina de bitllets de metro-kt/zona.html
+$dokka.location:interfaces////PointingToDeclaration/-git-hub-classroom-template/interfaces/index.html
+$dokka.location:interfaces/MyInterface///PointingToDeclaration/-git-hub-classroom-template/interfaces/-my-interface/index.html
+$dokka.location:models////PointingToDeclaration/-git-hub-classroom-template/models/index.html
+$dokka.location:models/MyModel///PointingToDeclaration/-git-hub-classroom-template/models/-my-model/index.html
+$dokka.location:models/MyModel/MyModel/#/PointingToDeclaration/-git-hub-classroom-template/models/-my-model/-my-model.html
+$dokka.location:models/MyModel/function/#/PointingToDeclaration/-git-hub-classroom-template/models/-my-model/function.html
+$dokka.location:utilities////PointingToDeclaration/-git-hub-classroom-template/utilities/index.html
+$dokka.location:utilities/MyUtilsKt///PointingToDeclaration/-git-hub-classroom-template/utilities/-my-utils-kt/index.html
+$dokka.location:utilities/MyUtilsKt/readSomething/#/PointingToDeclaration/-git-hub-classroom-template/utilities/-my-utils-kt/read-something.html
+controllers
+interfaces
+models
+utilities
+
